@@ -197,6 +197,17 @@ body {
     padding-bottom: 5rem;
 }
 
+.contenedor__proyectos__cero {
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/FrontEndStore1.png);
+    background-size: cover;
+    padding: 10rem;
+    border-radius: 5%;
+    filter: blur(4px);
+    text-align: center;
+    margin: 2rem;
+}
+
 .contenedor__proyectos__uno {
     position: relative;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/Free_Lancer.jpg);
